@@ -1900,14 +1900,14 @@ background-image: url("common-assets/misc/calendar-arrow-left.svg");
 }
 
 .panel-launchers .launcher {
-  padding-left: 2px;
-  padding-right: 2px;
+  padding-left: 1px;
+  padding-right: 1px;
   padding-bottom: 2px;
   transition-duration: 200;
 }
 
 .panel-launchers .launcher .icon-box {
-  padding: 0 .1em;
+  padding: 0 0;
 }
 
 .panel-launchers.vertical .launcher .icon-box {
